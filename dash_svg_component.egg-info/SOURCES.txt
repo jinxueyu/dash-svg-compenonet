@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+package.json
+setup.py
+dash_svg_component/Svg.py
+dash_svg_component/__init__.py
+dash_svg_component/_imports_.py
+dash_svg_component/dash_svg_component.min.js
+dash_svg_component/dash_svg_component.min.js.map
+dash_svg_component/metadata.json
+dash_svg_component/package-info.json
+dash_svg_component.egg-info/PKG-INFO
+dash_svg_component.egg-info/SOURCES.txt
+dash_svg_component.egg-info/dependency_links.txt
+dash_svg_component.egg-info/top_level.txt
